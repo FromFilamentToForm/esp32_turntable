@@ -2,8 +2,6 @@
 
 A simple, push-button controlled 360-degree turntable for product photography, based on an ESP32-S3 and a 28BYJ-48 stepper motor.
 
-!(https://i.imgur.com/g8wJ8Zl.jpeg)
-*(To add your own image: Upload it to your project, then replace the link above with the link to your image)*
 
 This project provides a sleek and functional platform to create professional-looking 360° product photos and videos. The custom-designed enclosure houses all components neatly for a clean, finished look.
 
@@ -18,7 +16,7 @@ This project provides a sleek and functional platform to create professional-loo
 ## ## Full Guide & 3D Models
 The complete assembly guide, the full Bill of Materials (BOM), and the STL files for 3D printing can be found on my MakerWorld page:
 
-**[LINK TO YOUR MAKERWORLD PAGE HERE]**
+**https://makerworld.com/de/@FilamentToForm**
 
 ---
 ## ## The Code
